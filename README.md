@@ -6,7 +6,7 @@
 The parent project folder of the implementation of os-ticket. 
 
 ## [Prerequisites and Installation](https://github.com/F00LIAN/osticket-prereqs)
-## Post-Installation Configuration (https://github.com/joshmadakorcc/post-install-config)
+## [Post-Installation Configuration](https://github.com/F00LIAN/osticket-post-install-config)
 ## Ticket Lifecycle Examples (https://github.com/joshmadakorcc/ticket-lifecycle)
 
   
