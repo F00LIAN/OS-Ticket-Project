@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-# os-ticket-entire-project
+# OS-Ticket Open Source Help Desk Simulator Project
 The parent project folder of the implementation of os-ticket. 
 
 ## [Prerequisites and Installation](https://github.com/F00LIAN/osticket-prereqs)
