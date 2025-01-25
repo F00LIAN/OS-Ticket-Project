@@ -9,4 +9,4 @@ The parent project folder of the implementation of os-ticket.
  
  <b>[**Post-Installation Configuration**](https://github.com/F00LIAN/osticket-post-install-config)</b>
  
- <b>[**Ticket Lifecycle Examples**](https://github.com/joshmadakorcc/ticket-lifecycle)</b>
+ <b>[**Ticket Lifecycle Examples**](https://github.com/F00LIAN/osticket-ticket-lifecycle)</b>
